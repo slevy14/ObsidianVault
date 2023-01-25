@@ -1,0 +1,21 @@
+{
+  "snippets_file": "ex : >[!EXAMPLE] Example \ndef : >[!INFO] Definition \nques : >[!QUESTION] \ntip : >[!TIP] \nthm : >[!ABSTRACT] \nqed : $\\square$\nal : $$\\begin{align*}.nl.>\t% equation.nl.>\t\\end{align*}$$\nlq : 1. question.nl.>\t- answer.nl.>2. question.nl.>\t- answer.nl.>3. question.nl.>\t- answer",
+  "snippets": [
+    "ex : >[!EXAMPLE] Example ",
+    "def : >[!INFO] Definition ",
+    "ques : >[!QUESTION] ",
+    "tip : >[!TIP] ",
+    "thm : >[!ABSTRACT] ",
+    "qed : $\\square$",
+    "al : $$\\begin{align*}.nl.>\t% equation.nl.>\t\\end{align*}$$",
+    "lq : 1. question.nl.>\t- answer.nl.>2. question.nl.>\t- answer.nl.>3. question.nl.>\t- answer"
+  ],
+  "endSymbol": ".end.",
+  "newlineSymbol": ".nl.",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
