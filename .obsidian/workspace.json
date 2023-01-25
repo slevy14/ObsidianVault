@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Math/4.2 Equivalence Relations.md",
+                "file": "Discrete Math/1.1 Intro to Cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Math/4.2 Equivalence Relations.md",
+                "file": "Discrete Math/1.1 Intro to Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Math/4.2 Equivalence Relations.md",
+                "file": "Discrete Math/1.1 Intro to Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Math/4.2 Equivalence Relations.md"
+                "file": "Discrete Math/1.1 Intro to Cryptography.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "91004b67a9245f21",
   "lastOpenFiles": [
-    "Discrete Math/4.1 Relations.md",
-    "Discrete Math/4.2 Equivalence Relations.md",
-    "Discrete Math/4.3 Affine Codes.md",
+    "Discrete Math/1.2 Propositional Logic.md",
     "Discrete Math/6.2 RSA Encryption.md",
-    "Discrete Math/3.1 Division and Modular Arithmetic.md",
     "Discrete Math/6.1 Public Channel Cryptography.md",
-    "Discrete Math/5.2 Permutations and Combinations.md",
-    "Discrete Math/5.1 Counting.md",
-    "Discrete Math/3.2 Primes and Greatest Common Divisors.md",
-    "Discrete Math/2.3 Functions.md"
+    "Discrete Math/6.3 Elliptic Curves.md",
+    "Discrete Math/_pdfs/Discrete Math with Cryptography Notes.pdf",
+    "Discrete Math/4.2 Equivalence Relations.md",
+    "Discrete Math/4.1 Relations.md",
+    "Discrete Math/4.3 Affine Codes.md",
+    "Discrete Math/3.1 Division and Modular Arithmetic.md",
+    "Discrete Math/5.2 Permutations and Combinations.md"
   ]
 }
