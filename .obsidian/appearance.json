@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "translucency": false,
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "theme": "obsidian"
 }

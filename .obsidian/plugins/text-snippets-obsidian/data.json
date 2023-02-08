@@ -1,5 +1,5 @@
 {
-  "snippets_file": "ex : >[!EXAMPLE] Example \ndef : >[!INFO] Definition \nques : >[!QUESTION] \ntip : >[!TIP] \nthm : >[!ABSTRACT] \nqed : $\\square$\nal : $$\\begin{align*}.nl.>\t% equation.nl.>\t\\end{align*}$$\nlq : 1. question.nl.>\t- answer.nl.>2. question.nl.>\t- answer.nl.>3. question.nl.>\t- answer",
+  "snippets_file": "ex : >[!EXAMPLE] Example \ndef : >[!INFO] Definition \nques : >[!QUESTION] \ntip : >[!TIP] \nthm : >[!ABSTRACT] \nqed : $\\square$\nal : $$\\begin{align*}.nl.>\t% equation.nl.>\t\\end{align*}$$\nlq : 1. question.nl.>\t- answer.nl.>2. question.nl.>\t- answer.nl.>3. question.nl.>\t- answer\ntikz : ```tikz.nl.\\begin{document}.nl.\\begin{tikzpicture}.nl.\t\\draw (-1,0) -- (3,0).nl.\t\t  (0,-1) -- (0,3);.nl.\t.end..nl.\\end{tikzpicture}.nl.\\end{document}.nl.```",
   "snippets": [
     "ex : >[!EXAMPLE] Example ",
     "def : >[!INFO] Definition ",
@@ -8,7 +8,8 @@
     "thm : >[!ABSTRACT] ",
     "qed : $\\square$",
     "al : $$\\begin{align*}.nl.>\t% equation.nl.>\t\\end{align*}$$",
-    "lq : 1. question.nl.>\t- answer.nl.>2. question.nl.>\t- answer.nl.>3. question.nl.>\t- answer"
+    "lq : 1. question.nl.>\t- answer.nl.>2. question.nl.>\t- answer.nl.>3. question.nl.>\t- answer",
+    "tikz : ```tikz.nl.\\begin{document}.nl.\\begin{tikzpicture}.nl.\t\\draw (-1,0) -- (3,0).nl.\t\t  (0,-1) -- (0,3);.nl.\t.end..nl.\\end{tikzpicture}.nl.\\end{document}.nl.```"
   ],
   "endSymbol": ".end.",
   "newlineSymbol": ".nl.",

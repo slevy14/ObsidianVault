@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d28812476154b9fc",
+            "id": "6ed33fd66269c027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Unit Conversion.md",
+                "file": "Linear Algebra/1.1 Geometry and Algebra of Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/Unit Conversion.md",
+                "file": "Linear Algebra/1.1 Geometry and Algebra of Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/Unit Conversion.md",
+                "file": "Linear Algebra/1.1 Geometry and Algebra of Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/Unit Conversion.md"
+                "file": "Linear Algebra/1.1 Geometry and Algebra of Vectors.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d28812476154b9fc",
+  "active": "7b7baebd4d970f4c",
   "lastOpenFiles": [
-    "Linear Algebra/Homework 1.2.md",
-    "Random/Unit Conversion.md",
-    "Discrete Math/6.3 Elliptic Curves.md",
-    "Discrete Math/6.2 RSA Encryption.md",
-    "Discrete Math/6.1 Public Channel Cryptography.md",
-    "Discrete Math/1.2 Propositional Logic.md",
-    "Discrete Math/1.3 Quantifiers.md",
+    "Untitled.canvas",
+    "Linear Algebra/1.1 Geometry and Algebra of Vectors.md",
+    "Linear Algebra/Homework/Homework 1.2.md",
     "Discrete Math/1.1 Intro to Cryptography.md",
-    "Discrete Math/_pdfs/Discrete Math with Cryptography Notes.pdf",
-    "Discrete Math/4.2 Equivalence Relations.md"
+    "Discrete Math/1.4 Intro to Proofs.md",
+    "Discrete Math/4.3 Affine Codes.md",
+    "Discrete Math/4.2 Equivalence Relations.md",
+    "Discrete Math/4.1 Relations.md",
+    "Discrete Math/3.2 Primes and Greatest Common Divisors.md",
+    "Discrete Math/2.3 Functions.md"
   ]
 }

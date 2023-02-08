@@ -2,5 +2,6 @@
   "quick-latex",
   "table-editor-obsidian",
   "text-snippets-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tikzjax"
 ]
